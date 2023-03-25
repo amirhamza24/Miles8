@@ -23,7 +23,7 @@ const UseEffectExample = () => {
     // }, []); 
 
 
-    // same thing using axios
+    // same thing using "axios"
     // useEffect(() => {
     //     const loadData = async () => {
     //         const { data } = await axios.get(`https://api.github.com/user`);
