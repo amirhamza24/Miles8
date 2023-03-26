@@ -22,6 +22,6 @@ const Cosmetic = (props) => {
     );
 };
 
-// beshi use korbona eta
+// beshi use korbona eta first er button ta but second ta amra use korbo beshi
 
 export default Cosmetic;
